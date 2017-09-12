@@ -1,0 +1,5 @@
+dependencies {
+compile 'com.facebook.android:audience-network-sdk:4.25.0', {
+transitive = false
+}
+}
